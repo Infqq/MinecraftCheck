@@ -1,2 +1,4 @@
 <h1 align="center">Примеры кода на VKBottle</h1>
-</p>
+
+## Vkbottle
+```pip install https://github.com/timoniq/vkbottle/archive/master.zip --upgrade```
